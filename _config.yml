@@ -4,15 +4,9 @@
 workshop_repo   : "https://github.com/carpentry-instructor-training/instructor-training-session-template"
 workshop_site   : "http://carpentry-instructor-training.github.io/instructor-training-session-template"
 #--------------------------------------------------------------------------------
-# Standard Carpentry Instructor Training settings - should not need to be modified.
-#--------------------------------------------------------------------------------
-cti_contact     : "training-help@software-carpentry.org"
-cti_github      : "https://github.com/carpentry-instructor-training"
-cti_githumio    : "http://carpentry-instructor-training.github.io/"
-cti_curriculum  : "http://swcarpentry.github.io/instructor-training/"
-#--------------------------------------------------------------------------------
 # Standard Software Carpentry settings - should not need to be modified.
 #--------------------------------------------------------------------------------
+it_contact      : "training-help@software-carpentry.org"
 swc_blog        : "http://software-carpentry.org/feed.xml"
 swc_contact     : "admin@software-carpentry.org"
 swc_files       : "http://files.software-carpentry.org"
