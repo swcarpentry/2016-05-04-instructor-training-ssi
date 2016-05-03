@@ -59,21 +59,25 @@ root: .
     </table>
   </div>
   
+  
+  
   <div class="col-md-6">
     <h3>Day 2</h3>
     <table class="table table-striped">
       <tr> <td>09:30</td> <td>Recap and homework review<br></td> </tr>
-      <tr> <td>10:00</td> <td>Alternative formative assessment techniques</td> </tr>
+      <tr> <td>10:00</td> <td>Cognitive load theory</td> </tr>
       <tr> <td>10:30</td> <td>Coffee break</td> </tr>
       <tr> <td>11:00</td> <td>Live coding and active learning</td> </tr>
+       <tr> <td>11:45</td> <td>Motivation and demotivation</td> </tr>
       <tr> <td>12:00</td> <td>Lunch break</td> </tr>
-      <tr> <td>13:00</td> <td>Overview of Software and Data Carpentry infrastructure</td> </tr>
-      <tr> <td>13:30</td> <td>Setting up and running a workshop</td> </tr>
+        <tr> <td>13:00</td> <td>Live coding exercise</td> </tr>
+      <tr> <td>14:00</td> <td>Overview of Software and Data Carpentry infrastructure</td> </tr>
       <tr> <td>14:30</td> <td>Coffee break</td> </tr>
-      <tr> <td>15:00</td> <td>Overview of existing materials; how to contribute</td> </tr>
-      <tr> <td>16:00</td> <td>Next steps</td> </tr>
-      <tr> <td>16:45</td> <td>Wrap-up</td> </tr>
-      <tr> <td>17:00</td> <td>Close</td> </tr>
+       <tr> <td>15:00</td> <td>Setting up and running a workshop</td> </tr>
+      <tr> <td>15:30</td> <td>Overview of existing materials; how to contribute</td> </tr>
+      <tr> <td>15:50</td> <td>Next steps</td> </tr>
+      <tr> <td>16:15</td> <td>Wrap-up</td> </tr>
+      <tr> <td>16:30</td> <td>Close</td> </tr>
     </table>
   </div>
 </div>
