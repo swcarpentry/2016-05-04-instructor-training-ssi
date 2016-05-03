@@ -31,10 +31,10 @@ root: .
       <td>Aleksandra</td></tr>
       <tr> <td>11:10</td> <td>Teaching as performance art</td>
       <td> Lesson study ("Building a better teacher"). Giving and receiving feedback.</td>
-       <td>Steve</td></tr>
+       <td>Aleksandra</td></tr>
        <tr> <td>11:20</td> <td> Exercise - video 1</td>
        <td> Up to 2 minutes on "The coolest thing about my job". 2 min feedback each (grid: +/- ; delivery/contents) </td>
-       <td>Steve</td></tr>
+       <td>Aleksandra</td></tr>
       <tr> <td>11:55</td> <td>Feedback on stickies</td> <td>Steve</td></tr>
       <tr> <td>12:00</td> <td>Lunch break</td></tr>
       <tr> <td>13:00</td> <td> Expertise</td> <td> What makes an expert? Dense connections between ideas. </td>
