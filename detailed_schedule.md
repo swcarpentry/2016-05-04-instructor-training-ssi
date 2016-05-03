@@ -35,7 +35,7 @@ root: .
        <tr> <td>11:20</td> <td> Exercise - video 1</td>
        <td> Up to 2 minutes on "The coolest thing about my job". 2 min feedback each (grid: +/- ; delivery/contents) </td>
        <td>Aleksandra</td></tr>
-      <tr> <td>11:55</td> <td>Feedback on stickies</td> <td>Steve</td></tr>
+      <tr> <td>11:55</td> <td>Feedback on stickies</td> <td>One good / one bad</td><td>Steve</td></tr>
       <tr> <td>12:00</td> <td>Lunch break</td></tr>
       <tr> <td>13:00</td> <td> Expertise</td> <td> What makes an expert? Dense connections between ideas. </td>
       <td>Steve </td> </tr>
@@ -45,8 +45,8 @@ root: .
       <tr> <td>13:20</td> <td> Concept maps</td> 
       <td> Representing and externalising expertise and knowledge. Purpose of concept maps. Concept maps != mind maps, diagrams, flowcharts </td>
       <td> Steve and Aleksandra</td> </tr>
-      <tr> <td>13:30</td> <td> Concept maps - exercise</td> <td> Participants to develop a concept map (7+/-2 rule!) on the topic they used for the MCQ before lunch. Exchange maps with a partner.</td> </tr>
-      <tr> <td>14:15</td> <td> Discussion on Concept Maps</td> <td> Aleksandra</td> </tr>
+      <tr> <td>13:30</td> <td> Concept maps - exercise</td> <td> Participants to develop a concept map (7+/-2 rule!) on the topic they used for the MCQ before lunch. Exchange maps with a partner.</td><td> Aleksandra</td>  </tr>
+      <tr> <td>14:15</td> <td> Discussion on Concept Maps</td><td> 2 participants to show their concept maps on whiteboard. The purpose of using concept maps.</td> <td> Aleksandra</td> </tr>
       <tr> <td>14:30</td> <td>Coffee break</td> </tr>
       <tr> <td>15:00</td> <td>Learning objectives</td>
       <td> </td> <td>Steve </td> </tr>
