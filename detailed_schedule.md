@@ -46,15 +46,16 @@ root: .
       <td> Representing and externalising expertise and knowledge. Purpose of concept maps. Concept maps != mind maps, diagrams, flowcharts </td>
       <td> Steve and Aleksandra</td> </tr>
       <tr> <td>13:30</td> <td> Concept maps - exercise</td> <td> Participants to develop a concept map (7+/-2 rule!) on the topic they used for the MCQ before lunch. Exchange maps with a partner.</td><td> Aleksandra</td>  </tr>
-      <tr> <td>14:15</td> <td> Discussion on Concept Maps</td><td> 2 participants to show their concept maps on whiteboard. The purpose of using concept maps.</td> <td> Aleksandra</td> </tr>
+      <tr> <td>13:45</td> <td>Concept maps - discussion</td><td>2 participants to present their concept maps on whiteboard and discuss</td><td>Aleksandra </td> </tr>
+      <tr> <td>14:00</td> <td> Instructional Design. Learning Objectives</td><td> .</td> <td> Aleksandra</td> </tr>
       <tr> <td>14:30</td> <td>Coffee break</td> </tr>
-      <tr> <td>15:00</td> <td>Learning objectives</td>
-      <td> </td> <td>Steve </td> </tr>
-      <tr> <td>15:20</td> <td>Learning objectives - exercise</td><td>Participants to develop learning objectives for the concept they used for MCQ and for the concept map </td>  </tr>
-      <tr> <td>15:45</td> <td>Concept maps - discussion</td><td>2 participants to present their concept maps on whiteboard and discuss</td><td>Steve </td> </tr>
-      <tr> <td>15:50</td> <td>Teaching as performance art</td> <td>Participants to teach up to 5 min each on the concept they worked on (MCQ, concept map, learning objectives). 3 min feedback each.</td></tr>
-      <tr> <td>16:40</td> <td>Homework overview</td> <td> a) read Operations Guide and write your questions into Etherpad; b) prepare 5 minutes to live teach from one of the DC/SWC lessons </td> <td> Aleksandra </td></tr>
-       <tr> <td>16:40</td> <td>Wrap-up</td> 
+      <tr> <td>15:00</td> <td>Learning objectives - exercise</td> 
+      <td>Participants to develop learning objectives for the concept they used for MCQ and for the concept map </td><td>Steve </td> </tr>
+    
+      
+      <tr> <td>15:30</td> <td>Teaching as performance art</td> <td>Participants to teach up to 5 min each on the concept they worked on (MCQ, concept map, learning objectives). 3 min feedback each.</td></tr>
+      <tr> <td>16:15</td> <td>Homework overview</td> <td> a) read Operations Guide and write your questions into Etherpad; b) prepare 5 minutes to live teach from one of the DC/SWC lessons </td> <td> Aleksandra </td></tr>
+       <tr> <td>16:30</td> <td>Wrap-up</td> 
         <td>Feedback on sticky notes </td> <td> Steve</td></tr>
     </table>
   </div>
